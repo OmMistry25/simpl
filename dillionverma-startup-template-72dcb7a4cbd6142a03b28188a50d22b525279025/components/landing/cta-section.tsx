@@ -176,7 +176,7 @@ export default function CallToActionSection() {
               </div>
               <div className="z-10 mt-4 flex flex-col items-center text-center text-primary">
                 <h1 className="text-3xl font-bold lg:text-4xl">
-                  Stop wasting time on design.
+                  Stop juggling between apps.
                 </h1>
                 <p className="mt-2">
                   Start your 7-day free trial. No credit card required.
