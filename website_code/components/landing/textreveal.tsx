@@ -1,4 +1,4 @@
-import TextReveal from "@/components/magicui/text-reveal";
+import {TextReveal} from "@/components/magicui/text-reveal";
 
 export function TextRevealDemo() {
   return (
