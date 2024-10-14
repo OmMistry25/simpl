@@ -50,12 +50,12 @@ export default function HeroSection() {
           />
 
           <img
-            src="/hero-dark3.png"
+            src="/hero-dark4.png"
             alt="Hero Image"
             className="hidden relative w-full h-full rounded-[inherit] border object-contain dark:block"
           />
           <img
-            src="/hero-light3.png"
+            src="/hero-light4.png"
             alt="Hero Image"
             className="block relative w-full h-full  rounded-[inherit] border object-contain dark:hidden"
           />
