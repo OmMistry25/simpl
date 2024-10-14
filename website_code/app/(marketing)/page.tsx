@@ -11,7 +11,7 @@ export default async function Page() {
       <HeroSection />
       <ClientSection />
       <SphereMask />
-      <PricingSection />
+      
       <CallToActionSection />
       <Particles
         className="absolute inset-0 -z-10"
