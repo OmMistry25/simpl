@@ -4,7 +4,7 @@ import HeroSection from "@/components/landing/hero-section";
 import PricingSection from "@/components/landing/pricing-section";
 import Particles from "@/components/magicui/particles";
 import { SphereMask } from "@/components/magicui/sphere-mask";
-import TextRevealDemo from "@/components/landing/textreveal";
+import TextRevealDemo from "@/components/landing/textreveal"
 
 export default async function Page() {
   return (
