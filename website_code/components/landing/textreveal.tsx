@@ -1,4 +1,4 @@
-import {TextRevealByWord} from "@components/magicui/text-reveal";
+import TextRevealByWord from "@components/magicui/text-reveal";
 
 export default function TextRevealDemo() {
   return (
